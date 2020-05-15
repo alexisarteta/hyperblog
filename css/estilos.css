@@ -5,6 +5,16 @@ body
     font-family: courier;
 }
 
+#cabecera
+{
+    color: white;
+    background: brown;
+    box-shadow: darkgray;
+    font-weight: bold;
+    
+    
+
+}
 #container
 {
     width: 70%;
